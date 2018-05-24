@@ -1,0 +1,58 @@
+C:\Users\My World of Software\source\repos\yunusscrum\yunusscrum\bin\Debug\yunusscrum.exe.config
+C:\Users\My World of Software\source\repos\yunusscrum\yunusscrum\bin\Debug\yunusscrum.exe
+C:\Users\My World of Software\source\repos\yunusscrum\yunusscrum\bin\Debug\yunusscrum.pdb
+C:\Users\My World of Software\source\repos\yunusscrum\yunusscrum\obj\Debug\yunusscrum.Form1.resources
+C:\Users\My World of Software\source\repos\yunusscrum\yunusscrum\obj\Debug\yunusscrum.Properties.Resources.resources
+C:\Users\My World of Software\source\repos\yunusscrum\yunusscrum\obj\Debug\yunusscrum.csproj.GenerateResource.Cache
+C:\Users\My World of Software\source\repos\yunusscrum\yunusscrum\obj\Debug\yunusscrum.csproj.CoreCompileInputs.cache
+C:\Users\My World of Software\source\repos\yunusscrum\yunusscrum\obj\Debug\yunusscrum.exe
+C:\Users\My World of Software\source\repos\yunusscrum\yunusscrum\obj\Debug\yunusscrum.pdb
+C:\Users\My World of Software\source\repos\yunusscrum\yunusscrum\obj\Debug\yunusscrum.csprojResolveAssemblyReference.cache
+C:\Users\Yunus\Desktop\yunusscrum\yunusscrum\bin\Debug\yunusscrum.exe.config
+C:\Users\Yunus\Desktop\yunusscrum\yunusscrum\bin\Debug\yunusscrum.exe
+C:\Users\Yunus\Desktop\yunusscrum\yunusscrum\bin\Debug\yunusscrum.pdb
+C:\Users\Yunus\Desktop\yunusscrum\yunusscrum\obj\Debug\yunusscrum.csprojResolveAssemblyReference.cache
+C:\Users\Yunus\Desktop\yunusscrum\yunusscrum\obj\Debug\yunusscrum.Form1.resources
+C:\Users\Yunus\Desktop\yunusscrum\yunusscrum\obj\Debug\yunusscrum.Properties.Resources.resources
+C:\Users\Yunus\Desktop\yunusscrum\yunusscrum\obj\Debug\yunusscrum.csproj.GenerateResource.Cache
+C:\Users\Yunus\Desktop\yunusscrum\yunusscrum\obj\Debug\yunusscrum.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\Desktop\yunusscrum\yunusscrum\obj\Debug\yunusscrum.exe
+C:\Users\Yunus\Desktop\yunusscrum\yunusscrum\obj\Debug\yunusscrum.pdb
+C:\Users\irem ünver\Desktop\yunusscrum\yunusscrum\yunusscrum\bin\Debug\yunusscrum.exe.config
+C:\Users\irem ünver\Desktop\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.exe
+C:\Users\irem ünver\Desktop\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.pdb
+C:\Users\irem ünver\Desktop\yunusscrum\yunusscrum\yunusscrum\bin\Debug\yunusscrum.exe
+C:\Users\irem ünver\Desktop\yunusscrum\yunusscrum\yunusscrum\bin\Debug\yunusscrum.pdb
+C:\Users\irem ünver\Desktop\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.csprojResolveAssemblyReference.cache
+C:\Users\irem ünver\Desktop\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.Form1.resources
+C:\Users\irem ünver\Desktop\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.Properties.Resources.resources
+C:\Users\irem ünver\Desktop\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.csproj.GenerateResource.Cache
+F:\yunusscrum\yunusscrum\yunusscrum\bin\Debug\yunusscrum.exe.config
+F:\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.exe
+F:\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.pdb
+F:\yunusscrum\yunusscrum\yunusscrum\bin\Debug\yunusscrum.exe
+F:\yunusscrum\yunusscrum\yunusscrum\bin\Debug\yunusscrum.pdb
+F:\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.csprojResolveAssemblyReference.cache
+F:\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.Form1.resources
+F:\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.Properties.Resources.resources
+F:\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.csproj.GenerateResource.Cache
+C:\Users\Yunus\Desktop\yunusscrum\yunusscrum\yunusscrum\bin\Debug\yunusscrum.exe.config
+C:\Users\Yunus\Desktop\yunusscrum\yunusscrum\yunusscrum\bin\Debug\yunusscrum.exe
+C:\Users\Yunus\Desktop\yunusscrum\yunusscrum\yunusscrum\bin\Debug\yunusscrum.pdb
+C:\Users\Yunus\Desktop\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.csprojResolveAssemblyReference.cache
+C:\Users\Yunus\Desktop\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.Form1.resources
+C:\Users\Yunus\Desktop\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.Properties.Resources.resources
+C:\Users\Yunus\Desktop\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.csproj.GenerateResource.Cache
+C:\Users\Yunus\Desktop\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\Desktop\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.exe
+C:\Users\Yunus\Desktop\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.pdb
+E:\yunusscrum\yunusscrum\yunusscrum\bin\Debug\yunusscrum.exe.config
+E:\yunusscrum\yunusscrum\yunusscrum\bin\Debug\yunusscrum.exe
+E:\yunusscrum\yunusscrum\yunusscrum\bin\Debug\yunusscrum.pdb
+E:\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.csprojResolveAssemblyReference.cache
+E:\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.Form1.resources
+E:\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.Properties.Resources.resources
+E:\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.csproj.GenerateResource.Cache
+E:\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.csproj.CoreCompileInputs.cache
+E:\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.exe
+E:\yunusscrum\yunusscrum\yunusscrum\obj\Debug\yunusscrum.pdb
